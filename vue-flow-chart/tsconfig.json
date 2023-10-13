@@ -19,9 +19,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "baseUrl": "./",  // 这里需要配置
+    "baseUrl": "./", // 这里需要配置
     "paths": {
-      "@/*": ["./src/*"]  // 这里需要配置
+      "@/*": ["./src/*"] // 这里需要配置
     }
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
